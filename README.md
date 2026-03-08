@@ -63,8 +63,9 @@ Useful insights that can support data-driven decisions and energy policy plannin
 
 🧑‍💻 Authors
 
-Faiz Mohmad
+Pragati Pandey
 
 Divyanshi Srivastava
 
-Pragati Pandey
+Faiz Mohmad
+
